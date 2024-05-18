@@ -1,0 +1,58 @@
+C:\Users\SUPER\Desktop\LAB9 СОЧНо\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\SUPER\Desktop\LAB9 СОЧНо\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\SUPER\Desktop\LAB9 СОЧНо\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\SUPER\Desktop\LAB9 СОЧНо\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\SUPER\Desktop\LAB9 СОЧНо\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\SUPER\Desktop\LAB9 СОЧНо\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\SUPER\Desktop\LAB9 СОЧНо\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUPER\Desktop\LAB9 СОЧНо\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\SUPER\Desktop\LAB9 СОЧНо\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\SUPER\Desktop\LAB9 СОЧНо\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\SUPER\Desktop\LAB9 СОЧНо\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\SUPER\Desktop\LAB9 СОЧНо\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\SUPER\Desktop\LAB9 СОЧНо\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\SUPER\Desktop\LAB9 СОЧНо\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\SUPER\Desktop\LAB9 СОЧНо\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+E:\МАКС\Лабы\ООП\4_Семестр\lab9\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+E:\МАКС\Лабы\ООП\4_Семестр\lab9\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+E:\МАКС\Лабы\ООП\4_Семестр\lab9\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+E:\МАКС\Лабы\ООП\4_Семестр\lab9\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+E:\МАКС\Лабы\ООП\4_Семестр\lab9\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+E:\МАКС\Лабы\ООП\4_Семестр\lab9\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+E:\МАКС\Лабы\ООП\4_Семестр\lab9\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\МАКС\Лабы\ООП\4_Семестр\lab9\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\МАКС\Лабы\ООП\4_Семестр\lab9\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+E:\МАКС\Лабы\ООП\4_Семестр\lab9\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\МАКС\Лабы\ООП\4_Семестр\lab9\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+E:\МАКС\Лабы\ООП\4_Семестр\lab9\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+E:\МАКС\Лабы\ООП\4_Семестр\lab9\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+E:\МАКС\Лабы\ООП\4_Семестр\lab9\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+E:\МАКС\Лабы\ООП\4_Семестр\lab9\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+D:\Верхом только лохи борятся\ООП\4_Семестр\lab9\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+D:\Верхом только лохи борятся\ООП\4_Семестр\lab9\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+D:\Верхом только лохи борятся\ООП\4_Семестр\lab9\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+D:\Верхом только лохи борятся\ООП\4_Семестр\lab9\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+D:\Верхом только лохи борятся\ООП\4_Семестр\lab9\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+D:\Верхом только лохи борятся\ООП\4_Семестр\lab9\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Верхом только лохи борятся\ООП\4_Семестр\lab9\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Верхом только лохи борятся\ООП\4_Семестр\lab9\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+D:\Верхом только лохи борятся\ООП\4_Семестр\lab9\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Верхом только лохи борятся\ООП\4_Семестр\lab9\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+D:\Верхом только лохи борятся\ООП\4_Семестр\lab9\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+D:\Верхом только лохи борятся\ООП\4_Семестр\lab9\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+D:\Верхом только лохи борятся\ООП\4_Семестр\lab9\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+D:\Верхом только лохи борятся\ООП\4_Семестр\lab9\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+D:\4сем\ооп\lab9\lab9\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+D:\4сем\ооп\lab9\lab9\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+D:\4сем\ооп\lab9\lab9\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+D:\4сем\ооп\lab9\lab9\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+D:\4сем\ооп\lab9\lab9\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+D:\4сем\ооп\lab9\lab9\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\4сем\ооп\lab9\lab9\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\4сем\ооп\lab9\lab9\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+D:\4сем\ооп\lab9\lab9\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\4сем\ооп\lab9\lab9\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+D:\4сем\ооп\lab9\lab9\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+D:\4сем\ооп\lab9\lab9\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+D:\4сем\ооп\lab9\lab9\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+D:\4сем\ооп\lab9\lab9\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
