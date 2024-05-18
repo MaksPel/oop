@@ -1,0 +1,15 @@
+﻿<Window x:Class="StreamDecoratorDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Stream Decorator Demo" Height="450" Width="800">
+    <Grid>
+        <StackPanel Margin="10">
+            <Button Content="Write to FileStream" Click="WriteToFileStream_Click"/>
+            <Button Content="Write to MemoryStream" Click="WriteToMemoryStream_Click"/>
+            <Button Content="Write to BufferStream" Click="WriteToBufferStream_Click"/>
+            <Button Content="Get Last 5 Characters" Click="GetLastFiveCharacters_Click"/>
+            <TextBox x:Name="inputTextBox" Width="200" Height="30" Margin="10"/>
+            <TextBox x:Name="outputTextBox" Height="200" Margin="0,10,0,0" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto"/>
+        </StackPanel>
+    </Grid>
+</Window>
