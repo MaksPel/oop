@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="taxi_journal">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="taxi_entry" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="car_number" type="xs:string"/>
+							<xs:element name="car_brand" type="CarBrandType"/>
+							<xs:element name="start_location">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="latitude" type="xs:decimal"/>
+										<xs:element name="longitude" type="xs:decimal"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="destination">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="latitude" type="xs:decimal"/>
+										<xs:element name="longitude" type="xs:decimal"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="distance" type="xs:decimal"/>
+							<xs:element name="date" type="xs:date"/>
+							<xs:element name="time" type="xs:time"/>
+							<xs:element name="fuel_consumption" type="xs:decimal"/>
+							<xs:element name="fare" type="xs:decimal"/>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:simpleType name="CarBrandType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Toyota"/>
+			<xs:enumeration value="Nissan"/>
+			<xs:enumeration value="Honda"/>
+			<!-- Добавьте другие марки автомобилей по вашему выбору -->
+		</xs:restriction>
+	</xs:simpleType>
+</xs:schema>

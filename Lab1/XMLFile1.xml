@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<taxi_journal>
+  <taxi_entry>
+    <car_number>424</car_number>
+    <car_brand>BMW</car_brand>
+    <start_location>
+      <latitude>43</latitude>
+      <longitude>34</longitude>
+    </start_location>
+    <destination>
+      <latitude>34</latitude>
+      <longitude>34</longitude>
+    </destination>
+    <distance>10.5</distance>
+    <date>2024-03-17</date>
+    <time>10:30:00</time>
+    <fuel_consumption>8.5</fuel_consumption>
+    <fare>250.0</fare>
+  </taxi_entry>
+  <taxi_entry>
+    <car_number>4334</car_number>
+    <car_brand>BMW</car_brand>
+    <start_location>
+      <latitude>43</latitude>
+      <longitude>43</longitude>
+    </start_location>
+    <destination>
+      <latitude>4</latitude>
+      <longitude>4</longitude>
+    </destination>
+    <distance>546</distance>
+    <date>65</date>
+    <time>56</time>
+    <fuel_consumption>4</fuel_consumption>
+    <fare>44</fare>
+  </taxi_entry>
+</taxi_journal>
